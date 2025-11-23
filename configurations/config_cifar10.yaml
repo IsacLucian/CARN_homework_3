@@ -14,5 +14,4 @@ grad_clip: 0.5
 batch_size_schedule: [{'epoch':80, 'batch_size':256}]
 device: 'cuda'
 wandb: true
-use_jax: true
 seed: 42

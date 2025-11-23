@@ -14,5 +14,4 @@ grad_clip: 1.0
 batch_size_schedule: False
 device: 'cuda'
 wandb: true
-use_jax: true
 seed: 42
